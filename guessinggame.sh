@@ -19,6 +19,7 @@ do
   then
     echo "Too high!"
   else
+    echo "Congratulations you are guessed!"
     break
   fi
 done
